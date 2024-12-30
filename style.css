@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    border: 2px solid blue;
+    height: 30px;
+    background-color: bisque;
+}
+#navigation {
+    margin: auto;
+}
+
+a {
+    padding: 10px;
+    float: right;
+    text-decoration: none;
+}
